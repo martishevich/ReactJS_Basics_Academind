@@ -2,3 +2,7 @@
 /dist
 /.idea
 /npm-debug.log
+
+*~
+*.swp
+*.swo
